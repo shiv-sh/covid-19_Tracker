@@ -41,15 +41,15 @@ padding: 20px;
 }
 
 .app__graphTitle {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    padding: 5px;
+    /* margin-top: 20px; */
+    margin-bottom: -17px;
+    /* padding: 5px; */
 }
 
 .app__header {
     display: flex;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 6px;
     justify-content: space-between;
 }
 
